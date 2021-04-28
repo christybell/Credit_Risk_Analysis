@@ -1,6 +1,6 @@
 # Supervised Machine Learning and Credit Risk
 
-<img src="images/ML-header.jpg" width="1000" height="300">
+<img src="images/machine-learning-brain.jpg" width="1000" height="450">
 
 For this project, I predicted credit risk with the supervised machine learning models I built and evaluated using Python.
 
