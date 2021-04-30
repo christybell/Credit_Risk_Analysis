@@ -15,18 +15,18 @@ For this project, I predicted credit risk with the supervised machine learning m
 
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
 
-<img src="images/Delv 1.PNG">
-<img src="images/Delv 1.PNG">
+<img src="images/Random Oversampler Results.PNG">
+<img src="images/SMOTE Oversampling Results.PNG">
+<img src="images/Cluster Centroids Undersampling Results.PNG">
 
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
-<img src="images/Delv 2.PNG">
-<img src="images/Delv 2.PNG">
+<img src="images/SMOTEENN Results.PNG">
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
-<img src="images/Delv 3.PNG">
-<img src="images/Delv 3.PNG">
+<img src="images/Balanced Random Forest Classifier Results.PNG">
+<img src="images/Easy Ensemble Classifier Results.PNG">
 
 ## Results
 
