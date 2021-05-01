@@ -17,9 +17,7 @@ I will evaluate the performance of these models and make a written recommendatio
 - **Data Source**: LoanStats_2019Q1.csv
 - **Software and Tools**: Python, Anaconda, Jupyter Notebook & Git Bash
 
-## Deliverables & Results
-
-### Deliverable 1: Use Resampling Models to Predict Credit Risk
+## Results
 
 ### RandomOverSampler Model
 
@@ -27,7 +25,7 @@ I will evaluate the performance of these models and make a written recommendatio
 - **Precision High Risk Score is 1%**
 - **Precision Low Risk Score is 100%**
 - **Recall High Risk Score is 73%**
-- **Recall Low Risk Score is 58**
+- **Recall Low Risk Score is 58%**
 <img src="images/Random Oversampler Results.PNG">
 
 ### SMOTE Model
@@ -48,8 +46,6 @@ I will evaluate the performance of these models and make a written recommendatio
 - **Recall Low Risk Score is 40%**
 <img src="images/Cluster Centroids Undersampling Results.PNG">
 
-### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
-
 ### SMOTEENN Model
 
 - **Accuracy Score is 54.5%**
@@ -58,8 +54,6 @@ I will evaluate the performance of these models and make a written recommendatio
 - **Recall High Risk Score is 79%**
 - **Recall Low Risk Score is 56%**
 <img src="images/SMOTEENN Results.PNG">
-
-### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 ### BalancedRandomForestClassifier Model
 
